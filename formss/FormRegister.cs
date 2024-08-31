@@ -43,7 +43,7 @@ namespace formss
                     if (dr.Read())
                     {
                         dr.Close();
-                        MessageBox.Show("Username Already exist please try another ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("نام کاربری از قبل وجود دارد لطفاً نام کاربری دیگری را امتحان کنید ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                     else
                     {
@@ -52,17 +52,17 @@ namespace formss
                         cmd.Parameters.AddWithValue("user_name", txtBoxUsername.Text);
                         cmd.Parameters.AddWithValue("password", txtBoxPassword.Text);
                         cmd.ExecuteNonQuery();
-                        MessageBox.Show("Your Account is created . Please login now.", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("حساب شما ایجاد شده است. لطفا همین الان وارد شوید", "موفق", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
                 }
                 else
                 {
-                    MessageBox.Show("Please enter both password same ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("لطفا رمز عبور هر دو را یکسان وارد کنید ", "خطا", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             else
             {
-                MessageBox.Show("Please enter value in all field.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("لطفا مقدار را در همه فیلد وارد کنید.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             // بررسی کنید که آیا فرم قبلاً باز نشده است
             if (Application.OpenForms["FormPersonalInfo"] == null)

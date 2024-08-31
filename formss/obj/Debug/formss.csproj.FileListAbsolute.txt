@@ -299,3 +299,4 @@ C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.ResultsDevice1.resources
 C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.ResultsDevice2.resources
 C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.ResultAnnual10.resources
 C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.csproj.GenerateResource.Cache
+C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.csproj.AssemblyReference.cache
