@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>formss</RootNamespace>
+    <AssemblyName>formss</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ResultsDaily1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsDaily1.Designer.cs">
+      <DependentUpon>ResultsDaily1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual1.Designer.cs">
+      <DependentUpon>ResultAnnual1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsWeekly1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsWeekly1.Designer.cs">
+      <DependentUpon>ResultsWeekly1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AboutUsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutUsForm.Designer.cs">
+      <DependentUpon>AboutUsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest10Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest10Form.Designer.cs">
+      <DependentUpon>AnnualTest10Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest11Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest11Form.Designer.cs">
+      <DependentUpon>AnnualTest11Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest12Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest12Form.Designer.cs">
+      <DependentUpon>AnnualTest12Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest13Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest13Form.Designer.cs">
+      <DependentUpon>AnnualTest13Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest1Form.Designer.cs">
+      <DependentUpon>AnnualTest1Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest2Form.Designer.cs">
+      <DependentUpon>AnnualTest2Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest3Form.Designer.cs">
+      <DependentUpon>AnnualTest3Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest4Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest4Form.Designer.cs">
+      <DependentUpon>AnnualTest4Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest5Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest5Form.Designer.cs">
+      <DependentUpon>AnnualTest5Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest6Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest6Form.Designer.cs">
+      <DependentUpon>AnnualTest6Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest7Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest7Form.Designer.cs">
+      <DependentUpon>AnnualTest7Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest8Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest8Form.Designer.cs">
+      <DependentUpon>AnnualTest8Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTest9Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTest9Form.Designer.cs">
+      <DependentUpon>AnnualTest9Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTestCriteriaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTestCriteriaForm.Designer.cs">
+      <DependentUpon>AnnualTestCriteriaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTestGuideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTestGuideForm.Designer.cs">
+      <DependentUpon>AnnualTestGuideForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualTestingEquipmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualTestingEquipmentForm.Designer.cs">
+      <DependentUpon>AnnualTestingEquipmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyTest1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyTest1Form.Designer.cs">
+      <DependentUpon>DailyTest1Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceBasicsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceBasicsForm.Designer.cs">
+      <DependentUpon>DeviceBasicsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceTypesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceTypesForm.Designer.cs">
+      <DependentUpon>DeviceTypesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceUsesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceUsesForm.Designer.cs">
+      <DependentUpon>DeviceUsesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoagin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoagin.Designer.cs">
+      <DependentUpon>FormLoagin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPersonalInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPersonalInfo.Designer.cs">
+      <DependentUpon>FormPersonalInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegister.Designer.cs">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWelcome.Designer.cs">
+      <DependentUpon>FormWelcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information1.Designer.cs">
+      <DependentUpon>Information1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information2.Designer.cs">
+      <DependentUpon>Information2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MnthlyTestingEquipmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MnthlyTestingEquipmentForm.Designer.cs">
+      <DependentUpon>MnthlyTestingEquipmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest10Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest10Form.Designer.cs">
+      <DependentUpon>MonthlyTest10Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest11Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest11Form.Designer.cs">
+      <DependentUpon>MonthlyTest11Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest1Form.Designer.cs">
+      <DependentUpon>MonthlyTest1Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest2Form.Designer.cs">
+      <DependentUpon>MonthlyTest2Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest3Form.Designer.cs">
+      <DependentUpon>MonthlyTest3Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest4Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest4Form.Designer.cs">
+      <DependentUpon>MonthlyTest4Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest5Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest5Form.Designer.cs">
+      <DependentUpon>MonthlyTest5Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest6Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest6Form.Designer.cs">
+      <DependentUpon>MonthlyTest6Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest7Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest7Form.Designer.cs">
+      <DependentUpon>MonthlyTest7Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTest9Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTest9Form.Designer.cs">
+      <DependentUpon>MonthlyTest9Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTestCriteriaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTestCriteriaForm.Designer.cs">
+      <DependentUpon>MonthlyTestCriteriaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyTestGuideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyTestGuideForm.Designer.cs">
+      <DependentUpon>MonthlyTestGuideForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileForm.Designer.cs">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadiotionDoseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RadiotionDoseForm.Designer.cs">
+      <DependentUpon>RadiotionDoseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StandrdsGuideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StandrdsGuideForm.Designer.cs">
+      <DependentUpon>StandrdsGuideForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestBenefitsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestBenefitsForm.Designer.cs">
+      <DependentUpon>TestBenefitsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeeklyAndDailyTestCriteriaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeeklyAndDailyTestCriteriaForm.Designer.cs">
+      <DependentUpon>WeeklyAndDailyTestCriteriaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeeklyAndDailyTestGuideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeeklyAndDailyTestGuideForm.Designer.cs">
+      <DependentUpon>WeeklyAndDailyTestGuideForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeeklyAndDailyTestingEquipmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeeklyAndDailyTestingEquipmentForm.Designer.cs">
+      <DependentUpon>WeeklyAndDailyTestingEquipmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeeklyTest1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeeklyTest1Form.Designer.cs">
+      <DependentUpon>WeeklyTest1Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly11.Designer.cs">
+      <DependentUpon>ResultsMonthly11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly12.Designer.cs">
+      <DependentUpon>ResultsMonthly12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual3.Designer.cs">
+      <DependentUpon>ResultAnnual3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual4.Designer.cs">
+      <DependentUpon>ResultAnnual4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual6.Designer.cs">
+      <DependentUpon>ResultAnnual6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual8.Designer.cs">
+      <DependentUpon>ResultAnnual8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly9.Designer.cs">
+      <DependentUpon>ResultsMonthly9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly10.Designer.cs">
+      <DependentUpon>ResultsMonthly10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual11.Designer.cs">
+      <DependentUpon>ResultAnnual11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual12.Designer.cs">
+      <DependentUpon>ResultAnnual12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual13.Designer.cs">
+      <DependentUpon>ResultAnnual13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly13.Designer.cs">
+      <DependentUpon>ResultsMonthly13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual14.Designer.cs">
+      <DependentUpon>ResultAnnual14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual15.Designer.cs">
+      <DependentUpon>ResultAnnual15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual2.Designer.cs">
+      <DependentUpon>ResultAnnual2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly3.Designer.cs">
+      <DependentUpon>ResultsMonthly3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly2.Designer.cs">
+      <DependentUpon>ResultsMonthly2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly1.Designer.cs">
+      <DependentUpon>ResultsMonthly1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly4.Designer.cs">
+      <DependentUpon>ResultsMonthly4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly5.Designer.cs">
+      <DependentUpon>ResultsMonthly5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual5.Designer.cs">
+      <DependentUpon>ResultAnnual5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly6.Designer.cs">
+      <DependentUpon>ResultsMonthly6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual7.Designer.cs">
+      <DependentUpon>ResultAnnual7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly7.Designer.cs">
+      <DependentUpon>ResultsMonthly7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsMonthly8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsMonthly8.Designer.cs">
+      <DependentUpon>ResultsMonthly8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual9.Designer.cs">
+      <DependentUpon>ResultAnnual9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsDevice1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsDevice1.Designer.cs">
+      <DependentUpon>ResultsDevice1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsDevice2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsDevice2.Designer.cs">
+      <DependentUpon>ResultsDevice2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultAnnual10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultAnnual10.Designer.cs">
+      <DependentUpon>ResultAnnual10.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ResultsDaily1.resx">
+      <DependentUpon>ResultsDaily1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual1.resx">
+      <DependentUpon>ResultAnnual1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsWeekly1.resx">
+      <DependentUpon>ResultsWeekly1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutUsForm.resx">
+      <DependentUpon>AboutUsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest10Form.resx">
+      <DependentUpon>AnnualTest10Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest11Form.resx">
+      <DependentUpon>AnnualTest11Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest12Form.resx">
+      <DependentUpon>AnnualTest12Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest13Form.resx">
+      <DependentUpon>AnnualTest13Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest1Form.resx">
+      <DependentUpon>AnnualTest1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest2Form.resx">
+      <DependentUpon>AnnualTest2Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest3Form.resx">
+      <DependentUpon>AnnualTest3Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest4Form.resx">
+      <DependentUpon>AnnualTest4Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest5Form.resx">
+      <DependentUpon>AnnualTest5Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest6Form.resx">
+      <DependentUpon>AnnualTest6Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest7Form.resx">
+      <DependentUpon>AnnualTest7Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest8Form.resx">
+      <DependentUpon>AnnualTest8Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTest9Form.resx">
+      <DependentUpon>AnnualTest9Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTestCriteriaForm.resx">
+      <DependentUpon>AnnualTestCriteriaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTestGuideForm.resx">
+      <DependentUpon>AnnualTestGuideForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualTestingEquipmentForm.resx">
+      <DependentUpon>AnnualTestingEquipmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyTest1Form.resx">
+      <DependentUpon>DailyTest1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceBasicsForm.resx">
+      <DependentUpon>DeviceBasicsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceTypesForm.resx">
+      <DependentUpon>DeviceTypesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceUsesForm.resx">
+      <DependentUpon>DeviceUsesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoagin.resx">
+      <DependentUpon>FormLoagin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPersonalInfo.resx">
+      <DependentUpon>FormPersonalInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegister.resx">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWelcome.resx">
+      <DependentUpon>FormWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information1.resx">
+      <DependentUpon>Information1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information2.resx">
+      <DependentUpon>Information2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MnthlyTestingEquipmentForm.resx">
+      <DependentUpon>MnthlyTestingEquipmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest10Form.resx">
+      <DependentUpon>MonthlyTest10Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest11Form.resx">
+      <DependentUpon>MonthlyTest11Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest1Form.resx">
+      <DependentUpon>MonthlyTest1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest2Form.resx">
+      <DependentUpon>MonthlyTest2Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest3Form.resx">
+      <DependentUpon>MonthlyTest3Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest4Form.resx">
+      <DependentUpon>MonthlyTest4Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest5Form.resx">
+      <DependentUpon>MonthlyTest5Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest6Form.resx">
+      <DependentUpon>MonthlyTest6Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest7Form.resx">
+      <DependentUpon>MonthlyTest7Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTest9Form.resx">
+      <DependentUpon>MonthlyTest9Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTestCriteriaForm.resx">
+      <DependentUpon>MonthlyTestCriteriaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyTestGuideForm.resx">
+      <DependentUpon>MonthlyTestGuideForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileForm.resx">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RadiotionDoseForm.resx">
+      <DependentUpon>RadiotionDoseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StandrdsGuideForm.resx">
+      <DependentUpon>StandrdsGuideForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestBenefitsForm.resx">
+      <DependentUpon>TestBenefitsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeeklyAndDailyTestCriteriaForm.resx">
+      <DependentUpon>WeeklyAndDailyTestCriteriaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeeklyAndDailyTestGuideForm.resx">
+      <DependentUpon>WeeklyAndDailyTestGuideForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeeklyAndDailyTestingEquipmentForm.resx">
+      <DependentUpon>WeeklyAndDailyTestingEquipmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeeklyTest1Form.resx">
+      <DependentUpon>WeeklyTest1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly11.resx">
+      <DependentUpon>ResultsMonthly11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly12.resx">
+      <DependentUpon>ResultsMonthly12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual3.resx">
+      <DependentUpon>ResultAnnual3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual4.resx">
+      <DependentUpon>ResultAnnual4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual6.resx">
+      <DependentUpon>ResultAnnual6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual8.resx">
+      <DependentUpon>ResultAnnual8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly9.resx">
+      <DependentUpon>ResultsMonthly9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly10.resx">
+      <DependentUpon>ResultsMonthly10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual11.resx">
+      <DependentUpon>ResultAnnual11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual12.resx">
+      <DependentUpon>ResultAnnual12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual13.resx">
+      <DependentUpon>ResultAnnual13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly13.resx">
+      <DependentUpon>ResultsMonthly13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual14.resx">
+      <DependentUpon>ResultAnnual14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual15.resx">
+      <DependentUpon>ResultAnnual15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual2.resx">
+      <DependentUpon>ResultAnnual2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly3.resx">
+      <DependentUpon>ResultsMonthly3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly2.resx">
+      <DependentUpon>ResultsMonthly2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly1.resx">
+      <DependentUpon>ResultsMonthly1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly4.resx">
+      <DependentUpon>ResultsMonthly4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly5.resx">
+      <DependentUpon>ResultsMonthly5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual5.resx">
+      <DependentUpon>ResultAnnual5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly6.resx">
+      <DependentUpon>ResultsMonthly6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual7.resx">
+      <DependentUpon>ResultAnnual7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly7.resx">
+      <DependentUpon>ResultsMonthly7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsMonthly8.resx">
+      <DependentUpon>ResultsMonthly8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual9.resx">
+      <DependentUpon>ResultAnnual9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsDevice1.resx">
+      <DependentUpon>ResultsDevice1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsDevice2.resx">
+      <DependentUpon>ResultsDevice2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultAnnual10.resx">
+      <DependentUpon>ResultAnnual10.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\تتنن.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
