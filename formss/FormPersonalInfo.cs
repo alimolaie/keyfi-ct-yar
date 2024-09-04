@@ -29,6 +29,33 @@ namespace formss
 
         private void btnSaveInformation_Click(object sender, EventArgs e)
         {
+            if (txtpassword.Text != string.Empty || txtusername.Text != string.Empty)
+            {
+                if (txtpassword.Text == txtconfirmpassword.Text)
+                {
+                    cmd = new SqlCommand("select * from LoginTable where username='" + txtusername.Text + "'", cn);
+                    dr = cmd.ExecuteReader();
+                    if (dr.Read())
+                    {
+                        dr.Close();
+                        MessageBox.Show("نام کاربری از قبل وجود دارد لطفاً نام کاربری دیگری را امتحان کنید ", "خطا", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        dr.Close();
+                        cmd = new SqlCommand("insert into LoginTable values(@username,@password)", cn);
+                        cmd.Parameters.AddWithValue("username", txtusername.Text);
+                        cmd.Parameters.AddWithValue("password", txtpassword.Text);
+                        cmd.ExecuteNonQuery();
+                        MessageBox.Show("حساب شما ایجاد شده است. لطفا همین الان وارد شوید", "انجام", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }
+               
+            }
+            else
+            {
+                MessageBox.Show("لطفا مقدار را در همه فیلد وارد کنید.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             // بررسی کنید که آیا فرم قبلاً باز نشده است
             if (Application.OpenForms["Form1"] == null)
             {

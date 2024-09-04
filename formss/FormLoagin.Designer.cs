@@ -43,7 +43,7 @@
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label1.Size = new System.Drawing.Size(549, 24);
+            this.label1.Size = new System.Drawing.Size(478, 18);
             this.label1.TabIndex = 0;
             this.label1.Text = "لطفا نام کاربری و رمز عبوری که در زمان ثبت نام انتخاب کرده اید را در این قسمت وار" +
     "د کنید";
@@ -54,7 +54,7 @@
             this.label2.Location = new System.Drawing.Point(768, 284);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(72, 24);
+            this.label2.Size = new System.Drawing.Size(63, 18);
             this.label2.TabIndex = 1;
             this.label2.Text = "نام کاربری";
             // 
@@ -64,7 +64,7 @@
             this.label3.Location = new System.Drawing.Point(780, 392);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(60, 24);
+            this.label3.Size = new System.Drawing.Size(57, 18);
             this.label3.TabIndex = 2;
             this.label3.Text = "رمز عبور";
             // 
@@ -73,7 +73,7 @@
             this.txtBoxUsernameLoagine.Location = new System.Drawing.Point(554, 284);
             this.txtBoxUsernameLoagine.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtBoxUsernameLoagine.Name = "txtBoxUsernameLoagine";
-            this.txtBoxUsernameLoagine.Size = new System.Drawing.Size(195, 31);
+            this.txtBoxUsernameLoagine.Size = new System.Drawing.Size(195, 24);
             this.txtBoxUsernameLoagine.TabIndex = 3;
             // 
             // txtBoxPasswordLoagin
@@ -81,8 +81,9 @@
             this.txtBoxPasswordLoagin.Location = new System.Drawing.Point(554, 403);
             this.txtBoxPasswordLoagin.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtBoxPasswordLoagin.Name = "txtBoxPasswordLoagin";
-            this.txtBoxPasswordLoagin.Size = new System.Drawing.Size(195, 31);
+            this.txtBoxPasswordLoagin.Size = new System.Drawing.Size(195, 24);
             this.txtBoxPasswordLoagin.TabIndex = 4;
+            this.txtBoxPasswordLoagin.UseSystemPasswordChar = true;
             // 
             // btnLoagin
             // 
@@ -99,7 +100,7 @@
             // 
             // FormLoagin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MistyRose;
             this.ClientSize = new System.Drawing.Size(1370, 749);
@@ -109,7 +110,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Font = new System.Drawing.Font("Vazir", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.Name = "FormLoagin";
             this.Text = "کیفی سی تی یار";

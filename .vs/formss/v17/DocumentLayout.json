@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|d:\\win-form\\formss\\formpersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|solutionrelative:formss\\formpersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|d:\\win-form\\formss\\formloagin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|solutionrelative:formss\\formloagin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|d:\\win-form\\formss\\formloagin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|solutionrelative:formss\\formloagin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +36,9 @@
               "RelativeDocumentMoniker": "formss\\FormPersonalInfo.cs",
               "ToolTip": "D:\\win-form\\formss\\FormPersonalInfo.cs",
               "RelativeToolTip": "formss\\FormPersonalInfo.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAB8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:31:31.372Z",
+              "WhenOpened": "2024-09-04T08:19:24.382Z",
               "EditorCaption": ""
             },
             {
@@ -42,7 +50,32 @@
               "ToolTip": "D:\\win-form\\formss\\FormPersonalInfo.cs [Design]",
               "RelativeToolTip": "formss\\FormPersonalInfo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:28:37.275Z",
+              "WhenOpened": "2024-09-04T08:19:22.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLoagin.cs",
+              "DocumentMoniker": "D:\\win-form\\formss\\FormLoagin.cs",
+              "RelativeDocumentMoniker": "formss\\FormLoagin.cs",
+              "ToolTip": "D:\\win-form\\formss\\FormLoagin.cs",
+              "RelativeToolTip": "formss\\FormLoagin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:18:52.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLoagin.cs [Design]",
+              "DocumentMoniker": "D:\\win-form\\formss\\FormLoagin.cs",
+              "RelativeDocumentMoniker": "formss\\FormLoagin.cs",
+              "ToolTip": "D:\\win-form\\formss\\FormLoagin.cs [Design]",
+              "RelativeToolTip": "formss\\FormLoagin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:18:50.679Z",
               "EditorCaption": " [Design]"
             }
           ]
