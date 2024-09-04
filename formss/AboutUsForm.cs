@@ -16,5 +16,10 @@ namespace formss
         {
             InitializeComponent();
         }
+
+        private void AboutUsForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

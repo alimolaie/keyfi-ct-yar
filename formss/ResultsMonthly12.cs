@@ -21,5 +21,10 @@ namespace formss
         {
 
         }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -50,5 +50,10 @@ namespace formss
             dataGridView1.Rows[4].Cells[2].Value = "مرکز";
 
         }
+
+        private void DataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

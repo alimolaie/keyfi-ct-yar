@@ -21,5 +21,15 @@ namespace formss
         {
 
         }
+
+        private void TextBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

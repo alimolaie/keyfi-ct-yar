@@ -88,7 +88,6 @@
             this.مشاهدهToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.خروجToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.خروجازبرنامهToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.btnExit = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -103,10 +102,11 @@
             this.انجامآزمونهاToolStripMenuItem,
             this.دربارهماToolStripMenuItem,
             this.خروجToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(792, 0);
+            this.menuStrip1.Location = new System.Drawing.Point(1248, 0);
             this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 3, 0, 3);
             this.menuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
-            this.menuStrip1.Size = new System.Drawing.Size(111, 497);
+            this.menuStrip1.Size = new System.Drawing.Size(122, 749);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
@@ -116,8 +116,9 @@
             this.اطلاعاتکاریرToolStripMenuItem.BackColor = System.Drawing.Color.Thistle;
             this.اطلاعاتکاریرToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.نمایشاطلاعاتکاربرToolStripMenuItem});
+            this.اطلاعاتکاریرToolStripMenuItem.Font = new System.Drawing.Font("Vazir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.اطلاعاتکاریرToolStripMenuItem.Name = "اطلاعاتکاریرToolStripMenuItem";
-            this.اطلاعاتکاریرToolStripMenuItem.Size = new System.Drawing.Size(98, 19);
+            this.اطلاعاتکاریرToolStripMenuItem.Size = new System.Drawing.Size(107, 25);
             this.اطلاعاتکاریرToolStripMenuItem.Text = "اطلاعات کاربر";
             // 
             // نمایشاطلاعاتکاربرToolStripMenuItem
@@ -136,9 +137,11 @@
             this.انواعدستگاهسیتیاسکToolStripMenuItem,
             this.کاربردهایدستگاهToolStripMenuItem,
             this.دوزپرتوییدستگاهToolStripMenuItem});
+            this.اطلاعاتدستگاهToolStripMenuItem.Font = new System.Drawing.Font("Vazir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.اطلاعاتدستگاهToolStripMenuItem.Name = "اطلاعاتدستگاهToolStripMenuItem";
-            this.اطلاعاتدستگاهToolStripMenuItem.Size = new System.Drawing.Size(98, 19);
+            this.اطلاعاتدستگاهToolStripMenuItem.Size = new System.Drawing.Size(107, 25);
             this.اطلاعاتدستگاهToolStripMenuItem.Text = "اطلاعات دستگاه";
+            this.اطلاعاتدستگاهToolStripMenuItem.Click += new System.EventHandler(this.اطلاعاتدستگاهToolStripMenuItem_Click);
             // 
             // اصولکارکرددستگاهToolStripMenuItem
             // 
@@ -181,8 +184,9 @@
             this.نحوهانجامآزمونهاToolStripMenuItem,
             this.تجهیزاتموردنیازآزمونهاToolStripMenuItem,
             this.مقادیرقابلقبولبرایهرآزمونToolStripMenuItem});
+            this.اطلاعاتآزمونهاToolStripMenuItem.Font = new System.Drawing.Font("Vazir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.اطلاعاتآزمونهاToolStripMenuItem.Name = "اطلاعاتآزمونهاToolStripMenuItem";
-            this.اطلاعاتآزمونهاToolStripMenuItem.Size = new System.Drawing.Size(98, 19);
+            this.اطلاعاتآزمونهاToolStripMenuItem.Size = new System.Drawing.Size(107, 25);
             this.اطلاعاتآزمونهاToolStripMenuItem.Text = "اطلاعات آزمون ها";
             // 
             // معرفیاستانداردهاToolStripMenuItem
@@ -320,8 +324,9 @@
             this.آزمونهایهفتگیToolStripMenuItem,
             this.آزمونهایماهانهToolStripMenuItem,
             this.آزمونهایسالانهToolStripMenuItem});
+            this.انجامآزمونهاToolStripMenuItem.Font = new System.Drawing.Font("Vazir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.انجامآزمونهاToolStripMenuItem.Name = "انجامآزمونهاToolStripMenuItem";
-            this.انجامآزمونهاToolStripMenuItem.Size = new System.Drawing.Size(98, 19);
+            this.انجامآزمونهاToolStripMenuItem.Size = new System.Drawing.Size(107, 25);
             this.انجامآزمونهاToolStripMenuItem.Text = "انجام آزمون ها";
             this.انجامآزمونهاToolStripMenuItem.Click += new System.EventHandler(this.انجامآزمونهاToolStripMenuItem_Click);
             // 
@@ -367,7 +372,7 @@
             // 
             this.آزمون1ToolStripMenuItem.BackColor = System.Drawing.Color.Thistle;
             this.آزمون1ToolStripMenuItem.Name = "آزمون1ToolStripMenuItem";
-            this.آزمون1ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون1ToolStripMenuItem.Size = new System.Drawing.Size(108, 22);
             this.آزمون1ToolStripMenuItem.Text = "آزمون 1";
             this.آزمون1ToolStripMenuItem.Click += new System.EventHandler(this.آزمون1ToolStripMenuItem_Click);
             // 
@@ -380,12 +385,13 @@
             this.آزمونهایهفتگیToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.آزمونهایهفتگیToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.آزمونهایهفتگیToolStripMenuItem.Text = "آزمون های هفتگی";
+            this.آزمونهایهفتگیToolStripMenuItem.Click += new System.EventHandler(this.آزمونهایهفتگیToolStripMenuItem_Click);
             // 
             // آزمون1ToolStripMenuItem1
             // 
             this.آزمون1ToolStripMenuItem1.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون1ToolStripMenuItem1.Name = "آزمون1ToolStripMenuItem1";
-            this.آزمون1ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون1ToolStripMenuItem1.Size = new System.Drawing.Size(108, 22);
             this.آزمون1ToolStripMenuItem1.Text = "آزمون 1";
             this.آزمون1ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون1ToolStripMenuItem1_Click);
             // 
@@ -412,7 +418,7 @@
             // 
             this.آزمون1ToolStripMenuItem3.BackColor = System.Drawing.Color.Thistle;
             this.آزمون1ToolStripMenuItem3.Name = "آزمون1ToolStripMenuItem3";
-            this.آزمون1ToolStripMenuItem3.Size = new System.Drawing.Size(152, 22);
+            this.آزمون1ToolStripMenuItem3.Size = new System.Drawing.Size(149, 22);
             this.آزمون1ToolStripMenuItem3.Text = "آزمون 1  ";
             this.آزمون1ToolStripMenuItem3.Click += new System.EventHandler(this.آزمون1ToolStripMenuItem3_Click);
             // 
@@ -420,7 +426,7 @@
             // 
             this.آزمون2ToolStripMenuItem.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون2ToolStripMenuItem.Name = "آزمون2ToolStripMenuItem";
-            this.آزمون2ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون2ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون2ToolStripMenuItem.Text = "آزمون2";
             this.آزمون2ToolStripMenuItem.Click += new System.EventHandler(this.آزمون2ToolStripMenuItem_Click);
             // 
@@ -428,7 +434,7 @@
             // 
             this.آزمون3ToolStripMenuItem.BackColor = System.Drawing.Color.Thistle;
             this.آزمون3ToolStripMenuItem.Name = "آزمون3ToolStripMenuItem";
-            this.آزمون3ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون3ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون3ToolStripMenuItem.Text = "آزمون 3";
             this.آزمون3ToolStripMenuItem.Click += new System.EventHandler(this.آزمون3ToolStripMenuItem_Click);
             // 
@@ -436,7 +442,7 @@
             // 
             this.آزمون4ToolStripMenuItem.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون4ToolStripMenuItem.Name = "آزمون4ToolStripMenuItem";
-            this.آزمون4ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون4ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون4ToolStripMenuItem.Text = "آزمون 4";
             this.آزمون4ToolStripMenuItem.Click += new System.EventHandler(this.آزمون4ToolStripMenuItem_Click);
             // 
@@ -444,7 +450,7 @@
             // 
             this.آزمون5ToolStripMenuItem.BackColor = System.Drawing.Color.Thistle;
             this.آزمون5ToolStripMenuItem.Name = "آزمون5ToolStripMenuItem";
-            this.آزمون5ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون5ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون5ToolStripMenuItem.Text = "آزمون 5";
             this.آزمون5ToolStripMenuItem.Click += new System.EventHandler(this.آزمون5ToolStripMenuItem_Click);
             // 
@@ -452,7 +458,7 @@
             // 
             this.آزمون6ToolStripMenuItem.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون6ToolStripMenuItem.Name = "آزمون6ToolStripMenuItem";
-            this.آزمون6ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون6ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون6ToolStripMenuItem.Text = "آزمون 6 و 7";
             this.آزمون6ToolStripMenuItem.Click += new System.EventHandler(this.آزمون6ToolStripMenuItem_Click);
             // 
@@ -460,7 +466,7 @@
             // 
             this.آزمون7ToolStripMenuItem.BackColor = System.Drawing.Color.Thistle;
             this.آزمون7ToolStripMenuItem.Name = "آزمون7ToolStripMenuItem";
-            this.آزمون7ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون7ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون7ToolStripMenuItem.Text = "آزمون 8";
             this.آزمون7ToolStripMenuItem.Click += new System.EventHandler(this.آزمون7ToolStripMenuItem_Click);
             // 
@@ -468,7 +474,7 @@
             // 
             this.آزمون8ToolStripMenuItem.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون8ToolStripMenuItem.Name = "آزمون8ToolStripMenuItem";
-            this.آزمون8ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون8ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون8ToolStripMenuItem.Text = "آزمون 9 و 10 و 11";
             this.آزمون8ToolStripMenuItem.Click += new System.EventHandler(this.آزمون8ToolStripMenuItem_Click);
             // 
@@ -476,7 +482,7 @@
             // 
             this.آزمون9ToolStripMenuItem.BackColor = System.Drawing.Color.Thistle;
             this.آزمون9ToolStripMenuItem.Name = "آزمون9ToolStripMenuItem";
-            this.آزمون9ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون9ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون9ToolStripMenuItem.Text = "آزمون 12";
             this.آزمون9ToolStripMenuItem.Click += new System.EventHandler(this.آزمون9ToolStripMenuItem_Click);
             // 
@@ -484,7 +490,7 @@
             // 
             this.آزمون10ToolStripMenuItem.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون10ToolStripMenuItem.Name = "آزمون10ToolStripMenuItem";
-            this.آزمون10ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.آزمون10ToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
             this.آزمون10ToolStripMenuItem.Text = "آزمون 13";
             this.آزمون10ToolStripMenuItem.Click += new System.EventHandler(this.آزمون10ToolStripMenuItem_Click);
             // 
@@ -515,7 +521,7 @@
             // 
             this.آزمون1ToolStripMenuItem2.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون1ToolStripMenuItem2.Name = "آزمون1ToolStripMenuItem2";
-            this.آزمون1ToolStripMenuItem2.Size = new System.Drawing.Size(152, 22);
+            this.آزمون1ToolStripMenuItem2.Size = new System.Drawing.Size(136, 22);
             this.آزمون1ToolStripMenuItem2.Text = "آزمون 1";
             this.آزمون1ToolStripMenuItem2.Click += new System.EventHandler(this.آزمون1ToolStripMenuItem2_Click);
             // 
@@ -523,7 +529,7 @@
             // 
             this.آزمون2ToolStripMenuItem1.BackColor = System.Drawing.Color.Thistle;
             this.آزمون2ToolStripMenuItem1.Name = "آزمون2ToolStripMenuItem1";
-            this.آزمون2ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون2ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون2ToolStripMenuItem1.Text = "آزمون 2";
             this.آزمون2ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون2ToolStripMenuItem1_Click);
             // 
@@ -531,7 +537,7 @@
             // 
             this.آزمون3ToolStripMenuItem1.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون3ToolStripMenuItem1.Name = "آزمون3ToolStripMenuItem1";
-            this.آزمون3ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون3ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون3ToolStripMenuItem1.Text = "آزمون 3";
             this.آزمون3ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون3ToolStripMenuItem1_Click);
             // 
@@ -539,7 +545,7 @@
             // 
             this.آزمون4ToolStripMenuItem1.BackColor = System.Drawing.Color.Thistle;
             this.آزمون4ToolStripMenuItem1.Name = "آزمون4ToolStripMenuItem1";
-            this.آزمون4ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون4ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون4ToolStripMenuItem1.Text = "آزمون 4";
             this.آزمون4ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون4ToolStripMenuItem1_Click);
             // 
@@ -547,7 +553,7 @@
             // 
             this.آزمون5ToolStripMenuItem1.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون5ToolStripMenuItem1.Name = "آزمون5ToolStripMenuItem1";
-            this.آزمون5ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون5ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون5ToolStripMenuItem1.Text = "آزمون 5";
             this.آزمون5ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون5ToolStripMenuItem1_Click);
             // 
@@ -555,7 +561,7 @@
             // 
             this.آزمون6ToolStripMenuItem1.BackColor = System.Drawing.Color.Thistle;
             this.آزمون6ToolStripMenuItem1.Name = "آزمون6ToolStripMenuItem1";
-            this.آزمون6ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون6ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون6ToolStripMenuItem1.Text = "آزمون 6";
             this.آزمون6ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون6ToolStripMenuItem1_Click);
             // 
@@ -563,7 +569,7 @@
             // 
             this.آزمون7ToolStripMenuItem1.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون7ToolStripMenuItem1.Name = "آزمون7ToolStripMenuItem1";
-            this.آزمون7ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون7ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون7ToolStripMenuItem1.Text = "آزمون 7";
             this.آزمون7ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون7ToolStripMenuItem1_Click);
             // 
@@ -571,7 +577,7 @@
             // 
             this.آزمون8ToolStripMenuItem1.BackColor = System.Drawing.Color.Thistle;
             this.آزمون8ToolStripMenuItem1.Name = "آزمون8ToolStripMenuItem1";
-            this.آزمون8ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون8ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون8ToolStripMenuItem1.Text = "آزمون 8";
             this.آزمون8ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون8ToolStripMenuItem1_Click);
             // 
@@ -579,7 +585,7 @@
             // 
             this.آزمون9ToolStripMenuItem1.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون9ToolStripMenuItem1.Name = "آزمون9ToolStripMenuItem1";
-            this.آزمون9ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون9ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون9ToolStripMenuItem1.Text = "آزمون 9 و 10";
             this.آزمون9ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون9ToolStripMenuItem1_Click);
             // 
@@ -587,7 +593,7 @@
             // 
             this.آزمون10ToolStripMenuItem1.BackColor = System.Drawing.Color.Thistle;
             this.آزمون10ToolStripMenuItem1.Name = "آزمون10ToolStripMenuItem1";
-            this.آزمون10ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون10ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون10ToolStripMenuItem1.Text = "آزمون 11";
             this.آزمون10ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون10ToolStripMenuItem1_Click);
             // 
@@ -595,7 +601,7 @@
             // 
             this.آزمون11ToolStripMenuItem1.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون11ToolStripMenuItem1.Name = "آزمون11ToolStripMenuItem1";
-            this.آزمون11ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون11ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون11ToolStripMenuItem1.Text = "آزمون 12 و 13";
             this.آزمون11ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون11ToolStripMenuItem1_Click);
             // 
@@ -603,7 +609,7 @@
             // 
             this.آزمون12ToolStripMenuItem1.BackColor = System.Drawing.Color.Thistle;
             this.آزمون12ToolStripMenuItem1.Name = "آزمون12ToolStripMenuItem1";
-            this.آزمون12ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون12ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون12ToolStripMenuItem1.Text = "آزمون 14";
             this.آزمون12ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون12ToolStripMenuItem1_Click);
             // 
@@ -611,7 +617,7 @@
             // 
             this.آزمون13ToolStripMenuItem1.BackColor = System.Drawing.Color.RosyBrown;
             this.آزمون13ToolStripMenuItem1.Name = "آزمون13ToolStripMenuItem1";
-            this.آزمون13ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.آزمون13ToolStripMenuItem1.Size = new System.Drawing.Size(136, 22);
             this.آزمون13ToolStripMenuItem1.Text = "آزمون15";
             this.آزمون13ToolStripMenuItem1.Click += new System.EventHandler(this.آزمون13ToolStripMenuItem1_Click);
             // 
@@ -620,15 +626,16 @@
             this.دربارهماToolStripMenuItem.BackColor = System.Drawing.Color.Thistle;
             this.دربارهماToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.مشاهدهToolStripMenuItem});
+            this.دربارهماToolStripMenuItem.Font = new System.Drawing.Font("Vazir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.دربارهماToolStripMenuItem.Name = "دربارهماToolStripMenuItem";
-            this.دربارهماToolStripMenuItem.Size = new System.Drawing.Size(98, 19);
+            this.دربارهماToolStripMenuItem.Size = new System.Drawing.Size(107, 25);
             this.دربارهماToolStripMenuItem.Text = "درباره ما";
             // 
             // مشاهدهToolStripMenuItem
             // 
             this.مشاهدهToolStripMenuItem.BackColor = System.Drawing.Color.RosyBrown;
             this.مشاهدهToolStripMenuItem.Name = "مشاهدهToolStripMenuItem";
-            this.مشاهدهToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.مشاهدهToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
             this.مشاهدهToolStripMenuItem.Text = "مشاهده";
             this.مشاهدهToolStripMenuItem.Click += new System.EventHandler(this.مشاهدهToolStripMenuItem_Click);
             // 
@@ -637,8 +644,9 @@
             this.خروجToolStripMenuItem.BackColor = System.Drawing.Color.RosyBrown;
             this.خروجToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.خروجازبرنامهToolStripMenuItem});
+            this.خروجToolStripMenuItem.Font = new System.Drawing.Font("Vazir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.خروجToolStripMenuItem.Name = "خروجToolStripMenuItem";
-            this.خروجToolStripMenuItem.Size = new System.Drawing.Size(98, 19);
+            this.خروجToolStripMenuItem.Size = new System.Drawing.Size(107, 25);
             this.خروجToolStripMenuItem.Text = "خروج";
             // 
             // خروجازبرنامهToolStripMenuItem
@@ -649,28 +657,19 @@
             this.خروجازبرنامهToolStripMenuItem.Text = "خروج از برنامه";
             this.خروجازبرنامهToolStripMenuItem.Click += new System.EventHandler(this.خروجازبرنامهToolStripMenuItem_Click);
             // 
-            // btnExit
-            // 
-            this.btnExit.BackColor = System.Drawing.Color.DeepPink;
-            this.btnExit.Location = new System.Drawing.Point(12, 424);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(84, 33);
-            this.btnExit.TabIndex = 1;
-            this.btnExit.Text = "خروج";
-            this.btnExit.UseVisualStyleBackColor = false;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
-            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MistyRose;
-            this.ClientSize = new System.Drawing.Size(903, 497);
-            this.Controls.Add(this.btnExit);
+            this.ClientSize = new System.Drawing.Size(1370, 749);
             this.Controls.Add(this.menuStrip1);
+            this.Font = new System.Drawing.Font("Vazir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "کیفی سی تی یار";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -717,7 +716,6 @@
         private System.Windows.Forms.ToolStripMenuItem مشخصاتلامپمولدXToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem اطلاعاتکاریرToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem نمایشاطلاعاتکاربرToolStripMenuItem;
-        private System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.ToolStripMenuItem اطلاعاتدستگاهToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem اصولکارکرددستگاهToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem انواعدستگاهسیتیاسکToolStripMenuItem;

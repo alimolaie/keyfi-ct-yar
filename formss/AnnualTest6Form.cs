@@ -26,5 +26,10 @@ namespace formss
             // تنظیم اجازه برای اضافه کردن ردیف توسط کاربر
             dataGridView1.AllowUserToAddRows = true;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

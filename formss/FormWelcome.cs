@@ -24,17 +24,16 @@ namespace formss
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
-            // بررسی کنید که آیا فرم قبلاً باز نشده است
-            if (Application.OpenForms["FormRegister"] == null)
+            if (Application.OpenForms["FormPersonalInfo"] == null)
             {
                 // ایجاد و نمایش فرم جدید اگر هنوز باز نشده است
-                FormRegister registerForm = new FormRegister();
-                registerForm.Show();
+                FormPersonalInfo personalInfoForm = new FormPersonalInfo();
+                personalInfoForm.Show();
             }
             else
             {
                 // اگر فرم قبلاً باز شده، آن را فعال کنید
-                Application.OpenForms["FormRegister"].BringToFront();
+                Application.OpenForms["FormPersonalInfo"].BringToFront();
             }
         }
 

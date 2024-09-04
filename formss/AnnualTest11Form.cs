@@ -27,5 +27,10 @@ namespace formss
             dataGridView2.AllowUserToAddRows = true;
 
         }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

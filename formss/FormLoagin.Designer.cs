@@ -39,10 +39,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(198, 53);
+            this.label1.Location = new System.Drawing.Point(378, 96);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label1.Size = new System.Drawing.Size(420, 13);
+            this.label1.Size = new System.Drawing.Size(549, 24);
             this.label1.TabIndex = 0;
             this.label1.Text = "لطفا نام کاربری و رمز عبوری که در زمان ثبت نام انتخاب کرده اید را در این قسمت وار" +
     "د کنید";
@@ -50,41 +51,47 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(506, 154);
+            this.label2.Location = new System.Drawing.Point(768, 284);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(58, 13);
+            this.label2.Size = new System.Drawing.Size(72, 24);
             this.label2.TabIndex = 1;
             this.label2.Text = "نام کاربری";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(517, 225);
+            this.label3.Location = new System.Drawing.Point(780, 392);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(47, 13);
+            this.label3.Size = new System.Drawing.Size(60, 24);
             this.label3.TabIndex = 2;
             this.label3.Text = "رمز عبور";
             // 
             // txtBoxUsernameLoagine
             // 
-            this.txtBoxUsernameLoagine.Location = new System.Drawing.Point(328, 154);
+            this.txtBoxUsernameLoagine.Location = new System.Drawing.Point(554, 284);
+            this.txtBoxUsernameLoagine.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtBoxUsernameLoagine.Name = "txtBoxUsernameLoagine";
-            this.txtBoxUsernameLoagine.Size = new System.Drawing.Size(147, 20);
+            this.txtBoxUsernameLoagine.Size = new System.Drawing.Size(195, 31);
             this.txtBoxUsernameLoagine.TabIndex = 3;
             // 
             // txtBoxPasswordLoagin
             // 
-            this.txtBoxPasswordLoagin.Location = new System.Drawing.Point(328, 222);
+            this.txtBoxPasswordLoagin.Location = new System.Drawing.Point(554, 403);
+            this.txtBoxPasswordLoagin.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtBoxPasswordLoagin.Name = "txtBoxPasswordLoagin";
-            this.txtBoxPasswordLoagin.Size = new System.Drawing.Size(147, 20);
+            this.txtBoxPasswordLoagin.Size = new System.Drawing.Size(195, 31);
             this.txtBoxPasswordLoagin.TabIndex = 4;
             // 
             // btnLoagin
             // 
+            this.btnLoagin.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnLoagin.BackColor = System.Drawing.Color.DeepPink;
-            this.btnLoagin.Location = new System.Drawing.Point(352, 408);
+            this.btnLoagin.Location = new System.Drawing.Point(569, 674);
+            this.btnLoagin.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnLoagin.Name = "btnLoagin";
-            this.btnLoagin.Size = new System.Drawing.Size(107, 34);
+            this.btnLoagin.Size = new System.Drawing.Size(180, 40);
             this.btnLoagin.TabIndex = 5;
             this.btnLoagin.Text = "ورود";
             this.btnLoagin.UseVisualStyleBackColor = false;
@@ -92,18 +99,21 @@
             // 
             // FormLoagin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MistyRose;
-            this.ClientSize = new System.Drawing.Size(803, 478);
+            this.ClientSize = new System.Drawing.Size(1370, 749);
             this.Controls.Add(this.btnLoagin);
             this.Controls.Add(this.txtBoxPasswordLoagin);
             this.Controls.Add(this.txtBoxUsernameLoagine);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Font = new System.Drawing.Font("Vazir", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.Name = "FormLoagin";
-            this.Text = "FormLoagin";
+            this.Text = "کیفی سی تی یار";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
             this.PerformLayout();
 

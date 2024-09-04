@@ -45,5 +45,10 @@ namespace formss
             dataGridView1.Rows[1].Cells[3].Value = "Maximum inferior gantry tilt ";
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

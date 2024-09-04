@@ -79,5 +79,10 @@ namespace formss
         {
             SetupDataGridView();
         }
+
+        private void DataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

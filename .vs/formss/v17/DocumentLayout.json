@@ -1,17 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ali\\Desktop\\formss\\",
+  "WorkspaceRootPath": "D:\\win-form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|c:\\users\\ali\\desktop\\formss\\formss\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|solutionrelative:formss\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|d:\\win-form\\formss\\formpersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|solutionrelative:formss\\formpersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|C:\\Users\\ali\\Desktop\\formss\\formss\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|solutionrelative:formss\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|C:\\Users\\ali\\Desktop\\formss\\formss\\formpersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|d:\\win-form\\formss\\formpersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BF968CD-1064-4D7E-AAE7-C85040C91CEC}|formss\\formss.csproj|solutionrelative:formss\\formpersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,37 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormRegister.cs",
-              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\formss\\formss\\FormRegister.cs",
-              "RelativeDocumentMoniker": "formss\\FormRegister.cs",
-              "ToolTip": "C:\\Users\\ali\\Desktop\\formss\\formss\\FormRegister.cs",
-              "RelativeToolTip": "formss\\FormRegister.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAuwEAAAABFAAAA",
+              "Title": "FormPersonalInfo.cs",
+              "DocumentMoniker": "D:\\win-form\\formss\\FormPersonalInfo.cs",
+              "RelativeDocumentMoniker": "formss\\FormPersonalInfo.cs",
+              "ToolTip": "D:\\win-form\\formss\\FormPersonalInfo.cs",
+              "RelativeToolTip": "formss\\FormPersonalInfo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T17:09:55.812Z",
+              "WhenOpened": "2024-09-04T01:31:31.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormRegister.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\formss\\formss\\FormRegister.cs",
-              "RelativeDocumentMoniker": "formss\\FormRegister.cs",
-              "ToolTip": "C:\\Users\\ali\\Desktop\\formss\\formss\\FormRegister.cs [Design]",
-              "RelativeToolTip": "formss\\FormRegister.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T17:09:40.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FormPersonalInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\formss\\formss\\FormPersonalInfo.cs",
+              "DocumentMoniker": "D:\\win-form\\formss\\FormPersonalInfo.cs",
               "RelativeDocumentMoniker": "formss\\FormPersonalInfo.cs",
-              "ToolTip": "C:\\Users\\ali\\Desktop\\formss\\formss\\FormPersonalInfo.cs [Design]",
+              "ToolTip": "D:\\win-form\\formss\\FormPersonalInfo.cs [Design]",
               "RelativeToolTip": "formss\\FormPersonalInfo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T17:08:44.12Z"
+              "WhenOpened": "2024-09-04T01:28:37.275Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

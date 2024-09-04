@@ -300,3 +300,353 @@ C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.ResultsDevice2.resources
 C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.ResultAnnual10.resources
 C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.csproj.GenerateResource.Cache
 C:\Users\ali\Desktop\formss\formss\obj\Debug\formss.csproj.AssemblyReference.cache
+E:\keyfi-ct-yar\formss\obj\Debug\formss.csprojAssemblyReference.cache
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsDaily1.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual1.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsWeekly1.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AboutUsForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest10Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest11Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest12Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest13Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest1Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest2Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest3Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest4Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest5Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest6Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest7Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest8Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTest9Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTestCriteriaForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTestGuideForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.AnnualTestingEquipmentForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.DailyTest1Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.DeviceBasicsForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.DeviceTypesForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.DeviceUsesForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.Form1.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.FormLoagin.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.FormPersonalInfo.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.FormRegister.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.FormWelcome.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.Information1.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.Information2.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MnthlyTestingEquipmentForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest10Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest11Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest1Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest2Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest3Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest4Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest5Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest6Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest7Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTest9Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTestCriteriaForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.MonthlyTestGuideForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ProfileForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.RadiotionDoseForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.StandrdsGuideForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.TestBenefitsForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.WeeklyAndDailyTestCriteriaForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.WeeklyAndDailyTestGuideForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.WeeklyAndDailyTestingEquipmentForm.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.WeeklyTest1Form.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly11.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly12.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual3.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual4.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual6.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual8.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly9.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly10.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual11.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual12.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual13.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly13.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual14.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual15.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual2.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly3.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly2.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly1.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly4.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly5.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual5.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly6.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual7.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly7.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsMonthly8.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual9.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsDevice1.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultsDevice2.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.ResultAnnual10.resources
+E:\keyfi-ct-yar\formss\obj\Debug\formss.csproj.GenerateResource.cache
+E:\keyfi-ct-yar\formss\obj\Debug\formss.exe
+E:\keyfi-ct-yar\formss\obj\Debug\formss.pdb
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.csproj.AssemblyReference.cache
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsDaily1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsWeekly1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AboutUsForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest10Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest11Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest12Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest13Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest1Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest2Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest3Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest4Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest5Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest6Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest7Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest8Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTest9Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTestCriteriaForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTestGuideForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.AnnualTestingEquipmentForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.DailyTest1Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.DeviceBasicsForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.DeviceTypesForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.DeviceUsesForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.Form1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.FormLoagin.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.FormPersonalInfo.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.FormRegister.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.FormWelcome.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.Information1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.Information2.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MnthlyTestingEquipmentForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest10Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest11Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest1Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest2Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest3Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest4Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest5Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest6Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest7Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTest9Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTestCriteriaForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.MonthlyTestGuideForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ProfileForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.RadiotionDoseForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.StandrdsGuideForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.TestBenefitsForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.WeeklyAndDailyTestCriteriaForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.WeeklyAndDailyTestGuideForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.WeeklyAndDailyTestingEquipmentForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.WeeklyTest1Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly11.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly12.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual3.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual4.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual6.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual8.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly9.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly10.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual11.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual12.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual13.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly13.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual14.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual15.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual2.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly3.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly2.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly4.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly5.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual5.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly6.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual7.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly7.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsMonthly8.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual9.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsDevice1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultsDevice2.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.ResultAnnual10.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.csproj.GenerateResource.cache
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.exe
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\_____ê_ء_ç _د_____î _ذ_د _»_î___د_î__ _ش_»_î_»\formss\obj\Debug\formss.pdb
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\bin\Debug\formss.exe.config
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\bin\Debug\formss.exe
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\bin\Debug\formss.pdb
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.csproj.AssemblyReference.cache
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsDaily1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsWeekly1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AboutUsForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest10Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest11Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest12Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest13Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest1Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest2Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest3Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest4Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest5Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest6Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest7Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest8Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTest9Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTestCriteriaForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTestGuideForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.AnnualTestingEquipmentForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.DailyTest1Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.DeviceBasicsForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.DeviceTypesForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.DeviceUsesForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.Form1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.FormLoagin.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.FormPersonalInfo.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.FormRegister.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.FormWelcome.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.Information1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.Information2.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MnthlyTestingEquipmentForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest10Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest11Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest1Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest2Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest3Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest4Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest5Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest6Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest7Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTest9Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTestCriteriaForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.MonthlyTestGuideForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ProfileForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.Properties.Resources.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.RadiotionDoseForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.StandrdsGuideForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.TestBenefitsForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.WeeklyAndDailyTestCriteriaForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.WeeklyAndDailyTestGuideForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.WeeklyAndDailyTestingEquipmentForm.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.WeeklyTest1Form.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly11.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly12.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual3.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual4.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual6.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual8.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly9.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly10.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual11.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual12.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual13.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly13.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual14.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual15.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual2.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly3.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly2.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly4.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly5.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual5.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly6.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual7.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly7.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsMonthly8.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual9.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsDevice1.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultsDevice2.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.ResultAnnual10.resources
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.csproj.GenerateResource.cache
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.csproj.CoreCompileInputs.cache
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.exe
+C:\Users\ali\Downloads\پروژه اصلی با دیزاین جدید\win-form\formss\obj\Debug\formss.pdb
+D:\win-form\formss\bin\Debug\formss.exe.config
+D:\win-form\formss\bin\Debug\formss.exe
+D:\win-form\formss\bin\Debug\formss.pdb
+D:\win-form\formss\obj\Debug\formss.csproj.AssemblyReference.cache
+D:\win-form\formss\obj\Debug\formss.ResultsDaily1.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual1.resources
+D:\win-form\formss\obj\Debug\formss.ResultsWeekly1.resources
+D:\win-form\formss\obj\Debug\formss.AboutUsForm.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest10Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest11Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest12Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest13Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest1Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest2Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest3Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest4Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest5Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest6Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest7Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest8Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTest9Form.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTestCriteriaForm.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTestGuideForm.resources
+D:\win-form\formss\obj\Debug\formss.AnnualTestingEquipmentForm.resources
+D:\win-form\formss\obj\Debug\formss.DailyTest1Form.resources
+D:\win-form\formss\obj\Debug\formss.DeviceBasicsForm.resources
+D:\win-form\formss\obj\Debug\formss.DeviceTypesForm.resources
+D:\win-form\formss\obj\Debug\formss.DeviceUsesForm.resources
+D:\win-form\formss\obj\Debug\formss.Form1.resources
+D:\win-form\formss\obj\Debug\formss.FormLoagin.resources
+D:\win-form\formss\obj\Debug\formss.FormPersonalInfo.resources
+D:\win-form\formss\obj\Debug\formss.FormRegister.resources
+D:\win-form\formss\obj\Debug\formss.FormWelcome.resources
+D:\win-form\formss\obj\Debug\formss.Information1.resources
+D:\win-form\formss\obj\Debug\formss.Information2.resources
+D:\win-form\formss\obj\Debug\formss.MnthlyTestingEquipmentForm.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest10Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest11Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest1Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest2Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest3Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest4Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest5Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest6Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest7Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTest9Form.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTestCriteriaForm.resources
+D:\win-form\formss\obj\Debug\formss.MonthlyTestGuideForm.resources
+D:\win-form\formss\obj\Debug\formss.ProfileForm.resources
+D:\win-form\formss\obj\Debug\formss.Properties.Resources.resources
+D:\win-form\formss\obj\Debug\formss.RadiotionDoseForm.resources
+D:\win-form\formss\obj\Debug\formss.StandrdsGuideForm.resources
+D:\win-form\formss\obj\Debug\formss.TestBenefitsForm.resources
+D:\win-form\formss\obj\Debug\formss.WeeklyAndDailyTestCriteriaForm.resources
+D:\win-form\formss\obj\Debug\formss.WeeklyAndDailyTestGuideForm.resources
+D:\win-form\formss\obj\Debug\formss.WeeklyAndDailyTestingEquipmentForm.resources
+D:\win-form\formss\obj\Debug\formss.WeeklyTest1Form.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly11.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly12.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual3.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual4.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual6.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual8.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly9.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly10.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual11.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual12.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual13.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly13.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual14.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual15.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual2.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly3.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly2.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly1.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly4.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly5.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual5.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly6.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual7.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly7.resources
+D:\win-form\formss\obj\Debug\formss.ResultsMonthly8.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual9.resources
+D:\win-form\formss\obj\Debug\formss.ResultsDevice1.resources
+D:\win-form\formss\obj\Debug\formss.ResultsDevice2.resources
+D:\win-form\formss\obj\Debug\formss.ResultAnnual10.resources
+D:\win-form\formss\obj\Debug\formss.csproj.GenerateResource.cache
+D:\win-form\formss\obj\Debug\formss.csproj.CoreCompileInputs.cache
+D:\win-form\formss\obj\Debug\formss.exe
+D:\win-form\formss\obj\Debug\formss.pdb

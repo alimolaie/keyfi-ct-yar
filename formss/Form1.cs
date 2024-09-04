@@ -239,8 +239,7 @@ namespace formss
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            // خروج از برنامه
-            Application.Exit();
+            
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
@@ -379,6 +378,16 @@ namespace formss
         }
 
         private void انجامآزمونهاToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void اطلاعاتدستگاهToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void آزمونهایهفتگیToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }

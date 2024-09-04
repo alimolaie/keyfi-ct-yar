@@ -13,7 +13,7 @@ namespace formss
     public partial class MonthlyTest3Form : Form
     {
         // لیستی از نام‌های سر ردیف‌ها
-        private List<string> rowHeadersText = new List<string> { "1", "2", "3", "4", };
+        private List<string> rowHeadersText = new List<string> { "", "", "", "", };
 
         private void SetupDataGridView()
         {
@@ -29,11 +29,14 @@ namespace formss
             dataGridView1.Rows.Add(4);
 
             // فعال کردن نمایش سر ردیف‌ها
-            dataGridView1.RowHeadersVisible = true;
+            dataGridView1.RowHeadersVisible = false;
 
             // تنظیم عرض سر ردیف‌ها
             dataGridView1.RowHeadersWidth = 100;
-
+            foreach (DataGridViewColumn column in dataGridView1.Columns)
+            {
+                column.Width = 200;
+            }
             // جلوگیری از تغییر نام سر ستون‌ها توسط کاربر
             dataGridView1.AllowUserToAddRows = true;   // جلوگیری از افزودن ردیف جدید توسط کاربر
             dataGridView1.AllowUserToDeleteRows = true; // جلوگیری از حذف ردیف توسط کاربر
